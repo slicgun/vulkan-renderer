@@ -9,4 +9,4 @@ for now:
    * changed the code to use the c++ bindings (vulkan.hpp)
    * and now i am in the process of abstracting the vulkan code into classes etc...
  
- please note that the code here is much poorer quality than i would normally write (no pointer checks, little validation, bad logging, etc...) - i intend on fixing these problems once i fully abstract the learn-vulkan examples
+ please note that the code here is much poorer quality than i would normally write (no pointer checks, little validation, bad logging, etc...) - i intend on fixing these problems once i fully abstract the vulkan-tutorial examples
