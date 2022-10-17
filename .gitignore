@@ -1,0 +1,8 @@
+Debug/*
+x64/*
+log/*
+vendor/*
+.vs/*
+*.vcxproj
+*.vcxproj.*
+*.sln
